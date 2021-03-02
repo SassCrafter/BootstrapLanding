@@ -1,0 +1,25 @@
+html,
+body {
+	height: 100%;
+	font-size: 1rem;
+}
+
+.gradient {
+	background: rgb(14,62,167);
+background: linear-gradient(90deg, rgba(14,62,167,0.8038793103448276) 0%, rgba(21,11,215,1) 30%, rgba(118,0,255,1) 86%);
+}
+
+.icon {
+	color: #fff;
+	width: 5rem;
+	height: 5rem;
+	border-radius: 50%;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.icon svg {
+	width: 50%;
+	height: 50%;
+}
